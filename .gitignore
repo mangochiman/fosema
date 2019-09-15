@@ -9,3 +9,5 @@ Gemfile.lock
 log/*
 config/*.yml
 tmp/
+*.pid.lock
+*.pid
